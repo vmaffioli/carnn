@@ -48,6 +48,6 @@ console.log(carnn(["3",6,"9"], "pt-br"));
 
 
 
-#### Max Number 999 Millinillions
+#### Max Number 999 Unviginticentillions
 updates coming soon
 
