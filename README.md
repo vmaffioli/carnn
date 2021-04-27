@@ -45,7 +45,7 @@ console.log(carnn(["3",6,"9"], "pt-br"));
 ```
  * To avoid precision loss using large Integers you can simply use Strings.
  * To use default language ignores the param or use empty Strings.
-
+ * For while, only integer numbers names is returned.
 
 
 #### Max Number 999 Unviginticentillions
