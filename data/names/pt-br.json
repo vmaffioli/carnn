@@ -1,0 +1,582 @@
+   {
+      "replace": [
+         [
+            " mil ",
+            " mil, "
+         ],
+         [
+            "lhão ",
+            "lhão, "
+         ],
+         [
+            "lhões ",
+            "lhões, "
+         ],
+         [
+            "cento ",
+            "cento e "
+         ],
+         [
+            "tos ",
+            "tos e "
+         ],
+         [
+            "nte ",
+            "nte e "
+         ],
+         [
+            "nta ",
+            "nta e "
+         ],
+         [
+            ", e ",
+            ""
+         ]
+      ],
+      "slice": [
+         " e",
+         ",",
+         "."
+      ],
+      "d1": [
+         "zero",
+         "um",
+         "dois",
+         "três",
+         "quatro",
+         "cinco",
+         "seis",
+         "sete",
+         "oito",
+         "nove"
+      ],
+      "d2": [
+         [
+            "dez",
+            "onze",
+            "doze",
+            "treze",
+            "quatorze",
+            "quinze",
+            "dezesseis",
+            "dezessete",
+            "dezoito",
+            "dezenove"
+         ],
+         "vinte",
+         "trinta",
+         "quarenta",
+         "cinquenta",
+         "sessenta",
+         "setenta",
+         "oitenta",
+         "noventa"
+      ],
+      "d3": [
+         [
+            "cem",
+            "cento"
+         ],
+         "duzentos",
+         "trezentos",
+         "quatrocentos",
+         "quinhentos",
+         "seiscentos",
+         "setecentos",
+         "oitocentos",
+         "novecentos"
+      ],
+      "d4": "mil",
+      "d7": [
+         "milhão",
+         "milhões"
+      ],
+      "d10": [
+         "bilhão",
+         "bilhões"
+      ],
+      "d13": [
+         "trilhão",
+         "trilhões"
+      ],
+      "d16": [
+         "quatrilhão",
+         "quatrilhões"
+      ],
+      "d19": [
+         "quintilhão",
+         "quintilhões"
+      ],
+      "d22": [
+         "sextilhão",
+         "sextilhões"
+      ],
+      "d25": [
+         "septilhão",
+         "septilhões"
+      ],
+      "d28": [
+         "octilhão",
+         "octilhões"
+      ],
+      "d31": [
+         "nonilhão",
+         "nonilhões"
+      ],
+      "d34": [
+         "decilhão",
+         "decilhões"
+      ],
+      "d37": [
+         "undecilhão",
+         "undecilhões"
+      ],
+      "d40": [
+         "duodecilhão",
+         "duodecilhões"
+      ],
+      "d43": [
+         "tredecilhão",
+         "tredecilhões"
+      ],
+      "d46": [
+         "quattuordecilhão",
+         "quattuordecilhões"
+      ],
+      "d49": [
+         "quindecilhão",
+         "quindecilhões"
+      ],
+      "d52": [
+         "sexdecilhão",
+         "sexdecilhões"
+      ],
+      "d55": [
+         "septendecilhão",
+         "septendecilhões"
+      ],
+      "d58": [
+         "octodecilhão",
+         "octodecilhões"
+      ],
+      "d61": [
+         "novemdecilhão",
+         "novemdecilhões"
+      ],
+      "d64": [
+         "vigintilhão",
+         "vigintilhões"
+      ],
+      "d67": [
+         "unvigintilhão",
+         "unvigintilhões"
+      ],
+      "d70": [
+         "duovigintilhão",
+         "duovigintilhões"
+      ],
+      "d73": [
+         "trevigintilhão",
+         "trevigintilhões"
+      ],
+      "d76": [
+         "quattuorvigintilhão",
+         "quattuorvigintilhões"
+      ],
+      "d79": [
+         "quinvigintilhão",
+         "quinvigintilhões"
+      ],
+      "d82": [
+         "sexvigintilhão",
+         "sexvigintilhões"
+      ],
+      "d85": [
+         "septenvigintilhão",
+         "septenvigintilhões"
+      ],
+      "d88": [
+         "octovigintilhão",
+         "octovigintilhões"
+      ],
+      "d91": [
+         "novemvigintilhão",
+         "novemvigintilhões"
+      ],
+      "d94": [
+         "trigintilhão",
+         "trigintilhões"
+      ],
+      "d97": [
+         "untrigintilhão",
+         "untrigintilhões"
+      ],
+      "d100": [
+         "duotrigintilhão",
+         "duotrigintilhões"
+      ],
+      "d103": [
+         "trestrigintilhão",
+         "trestrigintilhões"
+      ],
+      "d106": [
+         "quattuortrigintilhão",
+         "quattuortrigintilhões"
+      ],
+      "d109": [
+         "quinquatrigintilhão",
+         "quinquatrigintilhões"
+      ],
+      "d112": [
+         "sestrigintilhão",
+         "sestrigintilhões"
+      ],
+      "d115": [
+         "septentrigintilhão",
+         "septentrigintilhões"
+      ],
+      "d118": [
+         "octotrigintilhão",
+         "octotrigintilhões"
+      ],
+      "d121": [
+         "novemtrigintilhão",
+         "novemtrigintilhões"
+      ],
+      "d124": [
+         "quadragintilhão",
+         "quadragintilhões"
+      ],
+      "d127": [
+         "unquadragintilhão",
+         "unquadragintilhões"
+      ],
+      "d130": [
+         "duoquadragintilhão",
+         "duoquadragintilhões"
+      ],
+      "d133": [
+         "tresquadragintilhão",
+         "tresquadragintilhões"
+      ],
+      "d136": [
+         "quattuorquadragintilhão",
+         "quattuorquadragintilhões"
+      ],
+      "d139": [
+         "quinquadragintilhão",
+         "quinquadragintilhões"
+      ],
+      "d142": [
+         "sexquadragintilhão",
+         "sexquadragintilhões"
+      ],
+      "d145": [
+         "septenquadragintilhão",
+         "septenquadragintilhões"
+      ],
+      "d148": [
+         "octoquadragintilhão",
+         "octoquadragintilhões"
+      ],
+      "d151": [
+         "novenquadragintilhão",
+         "novenquadragintilhões"
+      ],
+      "d154": [
+         "quinquagintilhão",
+         "quinquagintilhões"
+      ],
+      "d157": [
+         "unquinquagintilhão",
+         "unquinquagintilhões"
+      ],
+      "d160": [
+         "duoquinquagintilhão",
+         "duoquinquagintilhões"
+      ],
+      "d163": [
+         "tresquinquagintilhão",
+         "tresquinquagintilhões"
+      ],
+      "d166": [
+         "quattuorquinquagintilhão",
+         "quattuorquinquagintilhões"
+      ],
+      "d169": [
+         "quinquinquagintilhão",
+         "quinquinquagintilhões"
+      ],
+      "d172": [
+         "sexquinquagintilhão",
+         "sexquinquagintilhões"
+      ],
+      "d175": [
+         "septenquinquagintilhão",
+         "septenquinquagintilhões"
+      ],
+      "d178": [
+         "octoquinquagintilhão",
+         "octoquinquagintilhões"
+      ],
+      "d181": [
+         "novemquinquagintilhão",
+         "novemquinquagintilhões"
+      ],
+      "d184": [
+         "sexagintilhão",
+         "sexagintilhões"
+      ],
+      "d187": [
+         "unsexagintilhão",
+         "unsexagintilhões"
+      ],
+      "d190": [
+         "duosexagintilhão",
+         "duosexagintilhões"
+      ],
+      "d193": [
+         "tressexagintilhão",
+         "tressexagintilhões"
+      ],
+      "d196": [
+         "quattuorsexagintilhão",
+         "quattuorsexagintilhões"
+      ],
+      "d199": [
+         "quinsexagintilhão",
+         "quinsexagintilhões"
+      ],
+      "d202": [
+         "sexsexagintilhão",
+         "sexsexagintilhões"
+      ],
+      "d205": [
+         "septensexagintilhão",
+         "septensexagintilhões"
+      ],
+      "d208": [
+         "octosexagintilhão",
+         "octosexagintilhões"
+      ],
+      "d211": [
+         "novemsexagintilhão",
+         "novemsexagintilhões"
+      ],
+      "d214": [
+         "septuagintilhão",
+         "septuagintilhões"
+      ],
+      "d217": [
+         "unseptuagintilhão",
+         "unseptuagintilhões"
+      ],
+      "d220": [
+         "duoseptuagintilhão",
+         "duoseptuagintilhões"
+      ],
+      "d223": [
+         "tresseptuagintilhão",
+         "tresseptuagintilhões"
+      ],
+      "d226": [
+         "quattuorseptuagintilhão",
+         "quattuorseptuagintilhões"
+      ],
+      "d229": [
+         "quinseptuagintilhão",
+         "quinseptuagintilhões"
+      ],
+      "d232": [
+         "sexseptuagintilhão",
+         "sexseptuagintilhões"
+      ],
+      "d235": [
+         "septenseptuagintilhão",
+         "septenseptuagintilhões"
+      ],
+      "d238": [
+         "octoseptuagintilhão",
+         "octoseptuagintilhões"
+      ],
+      "d241": [
+         "novemseptuagintilhão",
+         "novemseptuagintilhões"
+      ],
+      "d244": [
+         "octogintilhão",
+         "octogintilhões"
+      ],
+      "d247": [
+         "unoctogintilhão",
+         "unoctogintilhões"
+      ],
+      "d250": [
+         "duoctogintilhão",
+         "duoctogintilhões"
+      ],
+      "d253": [
+         "tresoctogintilhão",
+         "tresoctogintilhões"
+      ],
+      "d256": [
+         "quattuoroctogintilhão",
+         "quattuoroctogintilhões"
+      ],
+      "d259": [
+         "quinoctogintilhão",
+         "quinoctogintilhões"
+      ],
+      "d262": [
+         "sexoctogintilhão",
+         "sexoctogintilhões"
+      ],
+      "d265": [
+         "septenoctogintilhão",
+         "septenoctogintilhões"
+      ],
+      "d268": [
+         "octoctogintilhão",
+         "octoctogintilhões"
+      ],
+      "d271": [
+         "novemoctogintilhão",
+         "novemoctogintilhões"
+      ],
+      "d274": [
+         "nonagintilhão",
+         "nonagintilhões"
+      ],
+      "d277": [
+         "unnonagintilhão",
+         "unnonagintilhões"
+      ],
+      "d280": [
+         "duononagintilhão",
+         "duononagintilhões"
+      ],
+      "d283": [
+         "tresnonagintilhão",
+         "tresnonagintilhões"
+      ],
+      "d286": [
+         "quattuornonagintilhão",
+         "quattuornonagintilhões"
+      ],
+      "d289": [
+         "quinnonagintilhão",
+         "quinnonagintilhões"
+      ],
+      "d292": [
+         "sexnonagintilhão",
+         "sexnonagintilhões"
+      ],
+      "d295": [
+         "septennonagintilhão",
+         "septennonagintilhões"
+      ],
+      "d298": [
+         "octononagintilhão",
+         "octononagintilhões"
+      ],
+      "d301": [
+         "novemnonagintilhão",
+         "novemnonagintilhões"
+      ],
+      "d304": [
+         "centilhão",
+         "centilhões"
+      ],
+      "d307": [
+         "uncentilhão",
+         "uncentilhões"
+      ],
+      "d310": [
+         "duocentilhão",
+         "duocentilhões"
+      ],
+      "d313": [
+         "trescentilhão",
+         "trescentilhões"
+      ],
+      "d316": [
+         "decicentilhão",
+         "decicentilhões"
+      ],
+      "d319": [
+         "undecicentilhão",
+         "undecicentilhões"
+      ],
+      "d322": [
+         "viginticentilhão",
+         "viginticentilhões"
+      ],
+      "d325": [
+         "unviginticentilhão",
+         "unviginticentilhões"
+      ],
+      "d328": [
+         "trigintacentilhão",
+         "trigintacentilhões"
+      ],
+      "d331": [
+         "quadragintacentilhão",
+         "quadragintacentilhões"
+      ],
+      "d334": [
+         "quinquagintacentilhão",
+         "quinquagintacentilhões"
+      ],
+      "d337": [
+         "sexagintacentilhão",
+         "sexagintacentilhões"
+      ],
+      "d340": [
+         "septuagintacentilhão",
+         "septuagintacentilhões"
+      ],
+      "d343": [
+         "octogintacentilhão",
+         "octogintacentilhões"
+      ],
+      "d346": [
+         "nonagintacentilhão",
+         "nonagintacentilhões"
+      ],
+      "d349": [
+         "ducentilhão",
+         "ducentilhões"
+      ],
+      "d352": [
+         "trecentilhão",
+         "trecentilhões"
+      ],
+      "d355": [
+         "quadringentilhão",
+         "quadringentilhões"
+      ],
+      "d358": [
+         "quingentilhão",
+         "quingentilhões"
+      ],
+      "d361": [
+         "sescentilhão",
+         "sescentilhões"
+      ],
+      "d364": [
+         "septingentilhão",
+         "septingentilhões"
+      ],
+      "d367": [
+         "octingentilhão",
+         "octingentilhões"
+      ],
+      "d370": [
+         "nongentilhão",
+         "nongentilhões"
+      ],
+      "d373": [
+         "millinilhão",
+         "millinilhões"
+      ]
+   }

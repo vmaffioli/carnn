@@ -1,0 +1,41 @@
+{
+  "name": "carnn",
+  "version": "1.0.0",
+  "description": "As easy way to get the cardinal numbers names!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmaffioli/carnn.git"
+  },
+  "keywords": [
+    "cardinal",
+    "number",
+    "name",
+    "get",
+    "cardinals",
+    "numbers",
+    "names",
+    "return",
+    "obtain",
+    "string",
+    "integer",
+    "list",
+    "easy",
+    "carnn",
+    "script",
+    "multi",
+    "language",
+    "languages",
+    "multilanguages",
+    "support"
+  ],
+  "author": "vmaffioli <vinimaffioli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmaffioli/carnn/issues"
+  },
+  "homepage": "https://github.com/vmaffioli/carnn#readme"
+}

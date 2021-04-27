@@ -1,0 +1,570 @@
+{
+   "replace": [
+      [
+         " hundred ",
+         " hundred and "
+      ],
+      [
+         " thousand ",
+         " thousand, "
+      ],
+      [
+         "lion ",
+         "lion, "
+      ],
+      [
+         "lions ",
+         "lions, "
+      ],
+      [
+         "ty ",
+         "ty-"
+      ]
+   ],
+   "slice": [
+      " e",
+      ",",
+      "."
+   ],
+   "d1": [
+      "zero",
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine"
+   ],
+   "d2": [
+      [
+         "ten",
+         "eleven",
+         "twelve",
+         "thirteen",
+         "fourteen",
+         "fifteen",
+         "sixteen",
+         "seventeen",
+         "eighteen",
+         "nineteen"
+      ],
+      "twenty",
+      "thirty",
+      "forty",
+      "fifty",
+      "sixty",
+      "seventy",
+      "eighty",
+      "ninety"
+   ],
+   "d3": [
+      [
+         "hundred",
+         "hundred"
+      ],
+      "two hundred",
+      "three hundred",
+      "four hundred",
+      "five hundred",
+      "six hundred",
+      "seven hundred",
+      "eight hundred",
+      "nine hundred"
+   ],
+   "d4": "thousand",
+   "d7": [
+      "million",
+      "millions"
+   ],
+   "d10": [
+      "billion",
+      "billion"
+   ],
+   "d13": [
+      "trillion",
+      "trillions"
+   ],
+   "d16": [
+      "quadrillion",
+      "quadrillions"
+   ],
+   "d19": [
+      "quintillion",
+      "quintillions"
+   ],
+   "d22": [
+      "sextile",
+      "sextilions"
+   ],
+   "d25": [
+      "septillion",
+      "septilions"
+   ],
+   "d28": [
+      "octillion",
+      "octillions"
+   ],
+   "d31": [
+      "nonillion",
+      "nonillions"
+   ],
+   "d34": [
+      "decillion",
+      "decillions"
+   ],
+   "d37": [
+      "undecillion",
+      "undecillions"
+   ],
+   "d40": [
+      "duodecillion",
+      "duodecillions"
+   ],
+   "d43": [
+      "tredecillion",
+      "tredecillions"
+   ],
+   "d46": [
+      "quattuordecillion",
+      "quattuordecillions"
+   ],
+   "d49": [
+      "quindecillion",
+      "quindecillions"
+   ],
+   "d52": [
+      "sexdecillion",
+      "sexdecillions"
+   ],
+   "d55": [
+      "septendecillion",
+      "septendecillions"
+   ],
+   "d58": [
+      "octodecillion",
+      "octodecillions"
+   ],
+   "d61": [
+      "newdecillion",
+      "newdecillions"
+   ],
+   "d64": [
+      "vigintillion",
+      "vigintillions"
+   ],
+   "d67": [
+      "unvigintillion",
+      "unvigintillions"
+   ],
+   "d70": [
+      "duigigintillion",
+      "duovigintillions"
+   ],
+   "d73": [
+      "trevigintillion",
+      "trevigintillions"
+   ],
+   "d76": [
+      "quattuorvigintillion",
+      "quattuorvigintillions"
+   ],
+   "d79": [
+      "quinvigintillion",
+      "quinvigintillions"
+   ],
+   "d82": [
+      "sexvigintillion",
+      "sexvigintillions"
+   ],
+   "d85": [
+      "septenvigintillion",
+      "septenvigintillions"
+   ],
+   "d88": [
+      "octovigintillion",
+      "octovigintillions"
+   ],
+   "d91": [
+      "newvintintillion",
+      "newvintintillions"
+   ],
+   "d94": [
+      "trigintillion",
+      "trigintillions"
+   ],
+   "d97": [
+      "untrigintillion",
+      "untrigintillions"
+   ],
+   "d100": [
+      "duotrigintillion",
+      "duotrigintillions"
+   ],
+   "d103": [
+      "tripligintillion",
+      "trestrigintillions"
+   ],
+   "d106": [
+      "quattuortrigintillion",
+      "quattuortrigintilhions"
+   ],
+   "d109": [
+      "fivefold",
+      "fivefold"
+   ],
+   "d112": [
+      "sestrigintillion",
+      "sestrigintillions"
+   ],
+   "d115": [
+      "septentrigintillion",
+      "septentrigintillions"
+   ],
+   "d118": [
+      "octotrigintillion",
+      "octotrigintillions"
+   ],
+   "d121": [
+      "newtrigintillion",
+      "novemigigintillions"
+   ],
+   "d124": [
+      "quadragintillion",
+      "quadrantintillions"
+   ],
+   "d127": [
+      "unquadragintillion",
+      "unquadragintillions"
+   ],
+   "d130": [
+      "duquadragintillion",
+      "duquadragintillions"
+   ],
+   "d133": [
+      "tri-squared",
+      "tresquadragintillions"
+   ],
+   "d136": [
+      "quattuorquadragintillion",
+      "quattuorquadragintillions"
+   ],
+   "d139": [
+      "fifth quadrantillion",
+      "quinquadragintillions"
+   ],
+   "d142": [
+      "sixth quadrantintillion",
+      "sexquadragintillions"
+   ],
+   "d145": [
+      "septenquadragintillion",
+      "septenquadragintillions"
+   ],
+   "d148": [
+      "octquadragintillion",
+      "octquadragintillions"
+   ],
+   "d151": [
+      "novenquadragintillion",
+      "novenquadragintillions"
+   ],
+   "d154": [
+      "quinquagintillion",
+      "quinquagintillions"
+   ],
+   "d157": [
+      "unquinquagintillion",
+      "unquinquagintillions"
+   ],
+   "d160": [
+      "duquinquagintillion",
+      "duquinquagintillions"
+   ],
+   "d163": [
+      "tresquinquagintillion",
+      "tresquinquagintillions"
+   ],
+   "d166": [
+      "quattuorquinquagintillion",
+      "quattuorquinquagintillions"
+   ],
+   "d169": [
+      "five-quintillion",
+      "quinquinquintillions"
+   ],
+   "d172": [
+      "sixth quintillion",
+      "sixty-five"
+   ],
+   "d175": [
+      "septenquinquagintillion",
+      "septenquinquagintillions"
+   ],
+   "d178": [
+      "octquinquagintillion",
+      "octquinquagintillions"
+   ],
+   "d181": [
+      "newfive-quintillion",
+      "newfiftyintillions"
+   ],
+   "d184": [
+      "sexagintillion",
+      "sexagintillions"
+   ],
+   "d187": [
+      "unsexagintillion",
+      "unsexagintillions"
+   ],
+   "d190": [
+      "duosexagintillion",
+      "duosexagintillions"
+   ],
+   "d193": [
+      "tressexagintillion",
+      "tressexagintillions"
+   ],
+   "d196": [
+      "quattuorsexagintillion",
+      "quattuorsexagintillions"
+   ],
+   "d199": [
+      "quinsexagintillion",
+      "quinsexagintillions"
+   ],
+   "d202": [
+      "sexsexagintillion",
+      "sexsexagintillions"
+   ],
+   "d205": [
+      "septensexagintillion",
+      "septensexagintillions"
+   ],
+   "d208": [
+      "octosexagintillion",
+      "octosexagintillions"
+   ],
+   "d211": [
+      "newsexagintillion",
+      "newsexagintillions"
+   ],
+   "d214": [
+      "septuagintillion",
+      "septuagintillions"
+   ],
+   "d217": [
+      "unseptuagintillion",
+      "unseptuagintillions"
+   ],
+   "d220": [
+      "duoptuagintillion",
+      "duoseptuagintillions"
+   ],
+   "d223": [
+      "tresseptuagintillion",
+      "tresseptuagintillions"
+   ],
+   "d226": [
+      "quattuorseptuagintillion",
+      "quattuorseptuagintillions"
+   ],
+   "d229": [
+      "fifteenth-century",
+      "quinseptuagintillions"
+   ],
+   "d232": [
+      "sexseptuagintillion",
+      "sexseptuagintillions"
+   ],
+   "d235": [
+      "septenseptuagintillion",
+      "septenseptuagintillions"
+   ],
+   "d238": [
+      "octoseptuagintillion",
+      "octoseptuagintillions"
+   ],
+   "d241": [
+      "newseptuagintillion",
+      "newseptuagintillions"
+   ],
+   "d244": [
+      "octogintillion",
+      "octogintillions"
+   ],
+   "d247": [
+      "unoctogintillion",
+      "unoctogintillions"
+   ],
+   "d250": [
+      "duoctogintillion",
+      "duoctogintillions"
+   ],
+   "d253": [
+      "tresoctogintillion",
+      "tresoctogintillions"
+   ],
+   "d256": [
+      "quattuoroctogintillion",
+      "quattuoroctogintillions"
+   ],
+   "d259": [
+      "quinoctogintillion",
+      "quinoctogintillions"
+   ],
+   "d262": [
+      "sexoctogintillion",
+      "sexoctogintillions"
+   ],
+   "d265": [
+      "septenoctogintillion",
+      "septenoctogintillions"
+   ],
+   "d268": [
+      "octoctogintillion",
+      "octoctogintillions"
+   ],
+   "d271": [
+      "novemoctogintillion",
+      "novemoctogintillions"
+   ],
+   "d274": [
+      "nonagintillion",
+      "nonagintillions"
+   ],
+   "d277": [
+      "unnonagintillion",
+      "unnonagintillions"
+   ],
+   "d280": [
+      "duononagintillion",
+      "duononagintillions"
+   ],
+   "d283": [
+      "tresnonagintillion",
+      "tresnonagintillions"
+   ],
+   "d286": [
+      "quattuornonagintillion",
+      "quattuornonagintillions"
+   ],
+   "d289": [
+      "quinnonagintillion",
+      "quinnonagintillions"
+   ],
+   "d292": [
+      "sexnonagintillion",
+      "sexnonagintillions"
+   ],
+   "d295": [
+      "septennonagintillion",
+      "septennonagintillions"
+   ],
+   "d298": [
+      "octononagintillion",
+      "octononagintillions"
+   ],
+   "d301": [
+      "novemnonagintillion",
+      "novemnonagintillions"
+   ],
+   "d304": [
+      "centillion",
+      "centillions"
+   ],
+   "d307": [
+      "uncentillion",
+      "uncentillions"
+   ],
+   "d310": [
+      "duocentillion",
+      "duocentillions"
+   ],
+   "d313": [
+      "trescentillion",
+      "trescentillions"
+   ],
+   "d316": [
+      "decicentillion",
+      "decicentillions"
+   ],
+   "d319": [
+      "undecicentillion",
+      "undecicentillions"
+   ],
+   "d322": [
+      "viginticentillion",
+      "viginticentillions"
+   ],
+   "d325": [
+      "unviginticentillion",
+      "unviginticentillions"
+   ],
+   "d328": [
+      "trigintacentillion",
+      "trigintacentillions"
+   ],
+   "d331": [
+      "quadragintacentillion",
+      "quadragintacentillions"
+   ],
+   "d334": [
+      "quinquagintacentillion",
+      "quinquagintacentillions"
+   ],
+   "d337": [
+      "sexagintacentillion",
+      "sexagintacentillions"
+   ],
+   "d340": [
+      "septuagintacentillion",
+      "septuagintacentillions"
+   ],
+   "d343": [
+      "octogintacentillion",
+      "octogintacentillions"
+   ],
+   "d346": [
+      "nonagintacentillion",
+      "nonagintacentillions"
+   ],
+   "d349": [
+      "ducentillion",
+      "ducentillions"
+   ],
+   "d352": [
+      "trententillion",
+      "trententillions"
+   ],
+   "d355": [
+      "quadringentillion",
+      "quadringentillions"
+   ],
+   "d358": [
+      "quingentillion",
+      "quententillions"
+   ],
+   "d361": [
+      "sescentillion",
+      "centescentillions"
+   ],
+   "d364": [
+      "septingentillion",
+      "septingentillions"
+   ],
+   "d367": [
+      "octententillion",
+      "octentillions"
+   ],
+   "d370": [
+      "nongentillion",
+      "nongentillions"
+   ],
+   "d373": [
+      "millillion",
+      "millillions"
+   ]
+}
