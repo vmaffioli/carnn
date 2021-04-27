@@ -8,14 +8,14 @@ function isANumber(str) {
             if (/[0-9]/.test(e)) {
                 i++
             } else {
-                console.log("NumberName Error: Unexpected token '" + e + "' at pos " + i + " on '" + str + "'")
+                console.log("CARNN Error: Unexpected token '" + e + "' at pos " + i + " on '" + str + "'")
             }
         });
         if (i === str.length) {
             result = true
         }
     } else {
-        console.log("NumberName Error: Please provide a string or number.")
+        console.log("CARNN Error: Please provide a string or number.")
     }
     return result
  } 
@@ -5785,12 +5785,9 @@ function call(str) {
             result = rd371(str);
         } else if (str.length === 372) { // d372;
             result = rd372(str);
-        } else if (str.length === 373) { // d373;
-            result = rd373(str);
-        } else if (str.length === 374) { // d374;
-            result = rd374(str);
-        } else if (str.length === 375) { // d375;
-            result = rd375(str);
+        } else if (str.length > 372) { // > 372
+            result = ""
+            console.log("CARNN Error: Input value exceeds the CARNN limit of 999 Unviginticentillions")
         }
         result = normalize(result);
     }

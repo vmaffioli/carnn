@@ -22,7 +22,7 @@ npm install carnn --save
 - Language
     Receive a String containing language identifier (optional)
     If no value was provided, default language will be loaded : "en-us"
-    Values:
+    Supported values:
         "en-us",
         "pt-br"
     
