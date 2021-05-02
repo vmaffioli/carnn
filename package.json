@@ -1,6 +1,6 @@
 {
   "name": "carnn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "As easy way to get the cardinal numbers names!",
   "main": "index.js",
   "scripts": {
